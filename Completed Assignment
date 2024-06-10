@@ -1,0 +1,116 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/-ucQIGTc)
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=15249043&assignment_repo_type=AssignmentRepo)
+# SE-Assignment-2
+Assignment: Introduction to Software Engineering
+Instructions:
+Answer the following questions based on your understanding of software engineering concepts. Provide detailed explanations and examples where appropriate.
+
+
+Questions:
+1. Define Software Engineering:
+Answer: **is the process of developing, testing and deploying computer applications to solve real-world problems by adhering to a set of engineering principles and best practices.**
+
+
+2. What is software engineering, and how does it differ from traditional programming?
+Answer: **Software engineering projects often have shorter development cycles and can be scaled up or modified more easily compared to traditional Programming projects.**
+
+
+Software Development Life Cycle (SDLC):
+3. Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
+Agile vs. Waterfall Models:
+Answer;
+Agile Model
+- Concept- Here, a product owner will determine the scope of their project.
+- Inception- Once the concept is outlined, The project owner builds the software development team.
+- Iteration- This is where the developers work with UX designers to combine all product requirements and customer feedback, turning the design into code.
+- Release-  this is where the quality assurance team performs some tests to ensure the software is fully functional.
+- Maintainance- After the software is deployed and made available to the customers, the software development team provides ongoing support to keep the system running smoothly and resolve any new bugs.
+- Retirement- this where the existing software is either being replaced with new software, or the system itself has become obsolete or incompatible with the organization over time.
+
+
+Waterfall Model
+- Requirements- this is where you determine the project's scope, from business obligations to user needs.
+- Design- this where designers develop solutions that meet the requirements.
+- Implementation- this where the deign that is finalized and approved its implemented
+- Verification- after the developers code the design, the quality assurance team test the software to ensure good user experience
+- Maintainance- after the product release the developers fix any errors that may come up.
+
+
+
+
+4. Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred?
+Answer: **Requirements Engineering: In Agile, the Product owner can discuss the scope, requirements and expectations of a project at the developing stage with the liberty to change later on without any problem, whereas in waterfall, the developing stage is  rigid and a slight of change in requirements could mean a complete startover of the project.**
+
+
+5. What is requirements engineering? Describe the process and its importance in the software development lifecycle.
+Answer: **it's the process of developing and verifying the system requirements. The Process begins with Requirements formulation, which is followed by Validation, and then by Verification. A good Requirement Engineering Practice helps achieve the Primary Objective of making sure the delivered system meets the client's needs**
+
+
+Software Design Principles:
+6. Explain the concept of modularity in software design. How does it improve maintainability and scalability of software systems?
+Answer: **Testing in Software Engineering: Modularity refers to dividing a system into separate modules or components, where each module handles a specific functionality and operates independently. It can be used to focus on individual modules, applying unit tests to ensure that each part functions correctly. This simplifies design, development, testing, and maintenance by allowing you to focus on one part at a time without affecting the rest of the system.**
+
+
+7. Describe the different levels of software testing (unit testing, integration testing, system testing, acceptance testing). Why is testing crucial in software development?
+Answer:
+*Unit Testing* - **this is where each individual units or components of the software are tested.It's the first software testing done by the developer before the software is handed out to the testing team**
+*Intergration testing *- **this is the second level of testing that verifys whether individual modules, when combined (integrated), work correctly or not as a group. Intergrationg testing tools like Selenium can be used. It is done by the testing team**
+*System testing* - **this the third level of testing in which all components are tested together (as a whole) to ensure that the final product meets the specified requirements and runs as smoothly as possible in the operating environment. It is done by a more specialized testing team.**
+*Acceptance testing* - **this is the last and final level of testing, which is broad in scope, ranging from simply finding spelling and cosmetic errors to discovering bugs that might produce a significant error in the software.**
+
+
+Version Control Systems:
+8. What are version control systems, and why are they important in software development? Give examples of popular version control systems and their features.
+Answer:
+Version control System **is the practice of tracking and managing changes to software code. It helps DevOps improve development time and increase successful deployments.**
+Example;
+(a) Git - **it is used to manage the versions of your computer programs and work on programs in conjunction with other developers.**
+(b) GitHub - **It can be used to store, accomplish version control and track defects in that source code. It can also manage work tasks for the computer programmers working on that source code.**
+
+
+Software Project Management:
+9. Discuss the role of a software project manager. What are some key responsibilities and challenges faced in managing software projects?
+Answer:
+- Serve as liaisons - **they are responsible for communicating project status between the development team and the stakeholders, managing changes and requesting additional resources to help complete the project.**
+- Leading the team - **assign tasks, evaluate their team's performance and provide guidance throughout the software development process.**
+- Planning - **they create a detailed plan that outlines the tasks necessary to complete a software project. This plan can include the team's timelines, milestones and software development resources.**
+
+
+Software Maintenance:
+10. Define software maintenance and explain the different types of maintenance activities. Why is maintenance an essential part of the software lifecycle?
+Answer:
+Software Maintenance- **is the process of changing, modifying, and updating software to keep up with customer needs.**
+
+
+Corrective Software Maintenance- **this addresses the errors and faults within software applications that could impact various parts of a software, including the design, logic, and code.**
+Adaptive Software Maintenance- **this addresses changes to the operating system, hardware, software dependencies, Cloud storage, or even changes within the operating system.**
+Perfective Software Maintenance- **this addresses evolution of requirements and features that existing in your system.**
+Preventive Software Maintenance- **this adressesse changes and adaptations to your software so that it can work for a longer period of time.**
+
+
+Importance of Maintainace in the software cycle:
+- **To maintain software functionality.**
+- **To make upgrades to the coding.**
+- **To ensure any repairs needed to the software are completed.**
+
+
+Ethical Considerations in Software Engineering:
+11. What are some ethical issues that software engineers might face? How can software engineers ensure they adhere to ethical standards in their work?
+Answer:
+-  Unethical data collection
+- Weak security
+- Wrong Priorities
+Software engineers can ensure they adthere to ethical standards in their work through:
+- Training and Education
+- Compliance
+- Responsibility and Accountability
+
+
+Submission Guidelines:
+Your answers should be well-structured, concise, and to the point.
+Provide real-world examples or case studies wherever possible.
+Cite any references or sources you use in your answers.
+Submit your completed assignment by [due date].
+
+
+
